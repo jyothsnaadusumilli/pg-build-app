@@ -1,0 +1,26 @@
+[
+  {
+    "question": "when was hischip software solutions born??",
+    "choice1": "september 30 2013",
+    "choice2": "november 11 2012",
+    "choice3": "february 17 2011",
+    "choice4": "march 4 2014",
+    "answer": 1
+  },
+  {
+    "question": "where was hischip software solutions located?",
+    "choice1": "chennai",
+    "choice2": "bangolre",
+    "choice3": "delhi",
+    "choice4": "kerala",
+    "answer": 1
+  },
+  {
+    "question": " How do you write 'Hello World' in an alert box?",
+    "choice1": "msgBox('Hello World');",
+    "choice2": "alertBox('Hello World');",
+    "choice3": "msg('Hello World');",
+    "choice4": "alert('Hello World');",
+    "answer": 4
+  }
+]
